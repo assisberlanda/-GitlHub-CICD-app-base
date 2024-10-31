@@ -1,12 +1,12 @@
-## Deploy de Aplicação Node.js com Docker e Kubernetes (GCP)
+# ☸️ Deploy de Aplicação com Docker e Kubernetes - GCP
 
 ### 1. Ambiente Local
 
 **Pré-requisitos:**
 
-* Docker instalado e configurado.
-* Kubectl instalado e configurado com credenciais do GCP.
-* Google Cloud Platform (GCP) conta com projeto configurado.
+* 🐳 Docker instalado e configurado.
+* ☸️ Kubectl instalado e configurado com credenciais do GCP.
+* ☁ Google Cloud Platform (GCP) conta com projeto configurado.
 
 **Pasta do projeto:**
 
@@ -297,3 +297,5 @@ spec:
 ```
 
 **Observação:** O código acima é apenas um exemplo básico. A implementação específica irá depender das necessidades da aplicação e da arquitetura do projeto.
+#
+☸️ 🌎☁🧩📌❇💡❗🆑✅🔗⌨🔴☑🔗🐳🔥🚀🚧🚦⚙️⚠🌐✨
